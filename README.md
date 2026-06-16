@@ -1,2 +1,28 @@
-# 78d9e669-qa-testing-automation-invent
-Stop losing track of your test devices, environments, and automation scripts across scattered spreadsheets and sticky notes. This Notion template brings every QA asset into one living database.  Eliminates the chaos of managing testing inventory by providing a single source of truth for all assets — from physical devices and virtual machines to tes
+# QA & Testing Automation Inventory and Asset Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B6fZhbHh6Ak8FGeM4cZo07)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B6fZhbHh6Ak8FGeM4cZo07)
+
